@@ -1,0 +1,23 @@
+*.dat
+*.ini
+*.exe
+*.xml
+*.dll
+*.OCX
+*.swf
+qmc/
+source/
+tools/
+doc/
+lib/
+mmt/
+QMScript/*
+Plugin/*
+
+# Except
+!*.txt
+!QMScript/Test.q
+!Plugin/dm/
+
+# Ignore 
+accounts.txt
