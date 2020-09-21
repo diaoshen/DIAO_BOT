@@ -5,22 +5,22 @@
 *.dll
 *.OCX
 *.swf
+*.txt
 qmc/
 source/
 tools/
 doc/
 lib/
 mmt/
-
 Plugin/*
 QMScript/*
+
+
+
+# Except
+!Plugin/dm/
 !QMScript/DIAOBOT_V1.q
 !QMScript/DIAOBOT_V2.q
 
 
-# Except
-!*.txt
 
-!Plugin/dm/
-# Ignore 
-accounts.txt
