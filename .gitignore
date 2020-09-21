@@ -19,7 +19,6 @@ QMScript/*
 
 
 # Except
-!*.txt
 !QMScript/DIAOBOT_V1.q
 !QMScript/DIAOBOT_V2.q
 !Plugin/dm/*.txt
