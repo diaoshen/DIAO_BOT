@@ -11,13 +11,16 @@ tools/
 doc/
 lib/
 mmt/
-QMScript/*
+
 Plugin/*
+QMScript/*
+!QMScript/DIAOBOT_V1.q
+!QMScript/DIAOBOT_V2.q
+
 
 # Except
 !*.txt
-!QMScript/Test.q
-!Plugin/dm/
 
+!Plugin/dm/
 # Ignore 
 accounts.txt
