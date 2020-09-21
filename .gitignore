@@ -12,15 +12,17 @@ tools/
 doc/
 lib/
 mmt/
+
 Plugin/*
 QMScript/*
 
 
 
 # Except
-!Plugin/dm/
+!*.txt
 !QMScript/DIAOBOT_V1.q
 !QMScript/DIAOBOT_V2.q
+!Plugin/dm/*.txt
 
-
-
+!Plugin/dm/
+# Ignore 
